@@ -50,7 +50,7 @@
     "@babel/preset-env": "^7.11.0",
     "autoprefixer": "^9.8.6",
     "cssnano": "^4.1.10",
-    "node-sass": "^5",
+    "node-sass": "^9",
     "postcss-cli": "7.1.1",
     "prettier": "^2.1.1",
     "rollup": "^2.26.8",
